@@ -20,7 +20,7 @@ Tamkeen app is the official assistant for people with disabilities around the wo
 
 # `Technologies`
 
-MONGOBD, EXPRESS, NODEJS
+MONGOBD, EXPRESS, NODEJS, OpenAI GPT API: gpt-4o-mini
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -28,6 +28,8 @@ MONGOBD, EXPRESS, NODEJS
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1bx1739801986996id64Mup7ac8mPKj_g1&t=1718351869876" height="40"  alt="OpenAI logo"  />
 </div>
 
 ### `.env file `
