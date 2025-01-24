@@ -43,7 +43,7 @@ replace:
 - AUTH_PASSWORD =your_AUTH_PASSWORD
 - APP_URL = your_APP_URL
 - OPEN_AI_SECRET =your_OPEN_AI_SECRET
-- OPEN_AI_MODEL=your_OPEN_AI_MODEL (exp: gpt-3.5-turbo-1106)
+- OPEN_AI_MODEL=your_OPEN_AI_MODEL (exp: gpt-4o-mini)
 
 # Run the project
 
